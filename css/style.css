@@ -1,0 +1,13 @@
+html {
+    box-sizing: border-box;
+    font-size: 62.5%;
+    line-height: 2;
+}
+
+
+/*GLOBALES*/
+
+.contenedor {
+    max-width: 1200px;
+    margin: 0 auto;
+}
